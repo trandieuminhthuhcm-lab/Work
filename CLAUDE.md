@@ -3,6 +3,16 @@
 Đây là dự án xây dựng đội ngũ AI hỗ trợ nội dung cho kênh cá nhân — chủ đề kinh doanh tính nữ.
 Nền tảng hoạt động: chỉ Instagram (không còn dùng YouTube).
 
+## ĐỌC TRƯỚC KHI LÀM BẤT KỲ VIỆC GÌ
+
+`/core/HO-SO-GOC.md` là nguồn sự thật duy nhất về bản thân chị và việc kinh
+doanh (danh tính, câu chuyện, thương hiệu Khuyết, kênh Instagram, đối tượng
+mục tiêu, giọng nói cốt lõi). Mọi agent, mọi phiên làm việc PHẢI đọc file đó
+trước khi tạo bất kỳ output nào (content, hình ảnh, video, báo cáo...).
+Các thư mục `/voice-bible`, `/research`, `/scripts-captions`, `/thumbnails`,
+`/video-edits`, `/reports` chỉ chứa **kết quả phụ** do agent B–F tạo ra —
+không phải nơi lưu thông tin gốc.
+
 ## Cấu trúc đội ngũ agent
 
 | Agent | Nhiệm vụ | Output |
