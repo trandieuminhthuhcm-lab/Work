@@ -17,7 +17,14 @@
 
 - Tên/biệt danh hiển thị: ⬜
 - Email liên hệ: trandieuminhthuhcm@gmail.com ✅ *(nguồn: tài khoản đăng nhập)*
-- Vai trò: Nhà sáng lập / Personal brand kinh doanh tính nữ ⬜ *(cần chị xác nhận chức danh chính xác)*
+- Vai trò: Nhà sáng lập kiêm nhà thiết kế thương hiệu thời trang **Khuyết**,
+  vận hành một mình (thiết kế, marketing, làm việc xưởng, tìm nguồn vải) ✅
+- Học vấn: Cử nhân ngành **Quản trị Thời trang (Fashion Merchandising)**,
+  RMIT, chương trình 4 năm ✅. Học song song 3 năm may & làm rập tại một
+  trường tư ngoài chương trình chính khóa ✅.
+- Kinh nghiệm chuyên môn: 8 năm khảo sát thị trường vải & phụ liệu, trung
+  bình 10 lần/tháng ✅. Từng làm việc tại một công ty sourcing thời trang ✅.
+  Có kinh nghiệm làm việc trực tiếp với xưởng may và thợ mẫu ✅.
 
 ## 2. Câu chuyện & sự nghiệp
 
@@ -70,12 +77,46 @@
 
 ## 3. Kinh doanh / Thương hiệu
 
-- Thương hiệu chính: **Khuyết** (@khuyet.archive) — thời trang ✅
-  *(nguồn: ảnh chụp màn hình Instagram trong Google Drive của chị, xem mục 4)*
+- Thương hiệu chính: **Khuyết** (@khuyet.archive) — thương hiệu thời trang
+  Việt ✅
+- Định vị: tối giản, nữ tính, lấy triết lý **"cái không hoàn hảo" (khuyết)**
+  làm vẻ đẹp trung tâm ✅. Biểu tượng thương hiệu: **trăng khuyết** ✅.
+  *(Khớp với hướng luxury feminine copywriting mà skill `khuyet-caption`
+  trong dự án đang áp dụng.)*
+- Mô hình vận hành: một mình làm tất cả — thiết kế, marketing, làm việc với
+  xưởng, tìm nguồn vải ✅.
 - Ngành hàng / sản phẩm cụ thể: ⬜
-- Định vị thương hiệu (luxury / feminine / khác): ⬜ *(dự án đã có skill riêng
-  `khuyet-caption` cho copywriting luxury feminine — cần chị xác nhận đây có
-  phải định hướng chính thức không)*
+
+### Tiêu chuẩn chất lượng sản phẩm ✅
+
+Những yếu tố luôn được kiểm soát kỹ trước khi một sản phẩm ra đời:
+- **Chất liệu**: độ rũ, độ dày, độ nhăn, độ mịn, độ mướt, độ thoải mái, co
+  rút, độ dãn, độ ra màu.
+- **Hoạ tiết & màu sắc.**
+- **Form & thiết kế** (tự tay làm rập).
+- **Đường may & các kỹ thuật hoàn thiện khác.**
+
+Nhờ nền tảng chuyên môn (RMIT + kinh nghiệm xưởng may), biết được: chất vải
+nào mặc thoải mái, màu nào lên da đẹp, style/fit nào tôn form → tạo sản phẩm
+giá hợp lý, không phải trả thêm cho những thứ không cần thiết.
+
+### Câu chuyện tìm thợ may — cái giá của sự tâm huyết (chị tự kể) ✅
+
+*Câu chuyện thật, có số liệu cụ thể — nguyên liệu tốt để kể chuyện thương
+hiệu (đáng tin, cho thấy sự tâm huyết đứng sau mỗi sản phẩm).*
+
+- Đã thử qua **12–13 người thợ may** để tìm ra người may đúng từ thiết kế ra
+  rập, đúng form. Hầu hết những người còn lại: may ẩu, giá không hợp lý,
+  không đúng thiết kế.
+- Mỗi lần thử một người thợ (trung bình 2 mẫu): tốn **500.000 – 1.000.000
+  VNĐ**. Mỗi lần tìm vải & phụ liệu riêng: tốn thêm **200.000 – 300.000
+  VNĐ**, có khi nhiều hơn.
+- Một lần gửi gắm cho một thợ hứa hẹn từ **tháng 11 năm ngoái**, đến **tháng
+  6 năm nay** vẫn chưa có sản phẩm hoàn thiện nào — thiệt hại **3.000.000
+  VNĐ**, không nhận được sản phẩm nào.
+- Kể cả với người thợ "đúng" (người cuối cùng được chọn), vẫn cần chỉnh sửa
+  ít nhất **1–2 lần** mới ra được một sản phẩm hoàn chỉnh.
+
 - Đối tượng khách hàng của Khuyết: ⬜
 
 ## 4. Kênh mạng xã hội & số liệu
