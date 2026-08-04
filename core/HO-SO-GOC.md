@@ -49,11 +49,24 @@
   nhường nhịn, chơi thân từ lớp 5 đến tận bây giờ. Bạn học rất giỏi, sau này
   vào lớp chuyên ngoại ngữ cấp 3.
 - Cấp 2: thiếu **0,25 điểm** ✅ nên không đậu vào chung trường chuyên với
-  Minh Huyền; đạt học sinh khá (thiếu 0,1 điểm Toán để lên giỏi — mốc điểm
-  riêng, không phải mốc thi chuyên). Giai đoạn này đang học và thích tiếng
-  Nhật.
-- *(Chị nói "còn tiếp" — sẽ bổ sung thêm khi chị kể tiếp phần sau, kể cả phần
-  liên quan trực tiếp đến khởi nghiệp/kinh doanh.)*
+  Minh Huyền.
+- Lớp 4: rất nhút nhát — muốn tham gia diễn kịch ở lớp nhưng không dám nói
+  nên cô giáo không giao lời thoại cho vai của mình. Hồi nhỏ hay bị gọi là
+  "mít ướt" vì khóc nhiều → chị tự nhận ra mình nhạy cảm từ bé.
+- Lớp 3 là học sinh tiên tiến (không phải giỏi) vì ham chơi. Từ lớp 4 trở đi
+  luôn phải học thêm, kể cả học hè, học trước chương trình.
+- Lớp 8: thiếu 0,1 điểm môn Toán nên chỉ đạt học sinh khá (không phải giỏi).
+  Ba mẹ không hài lòng, bắt bỏ tiếng Nhật để tập trung học, sau đó siết rất
+  nghiêm khắc kiểu "con nhà người ta" — không cho đi chơi.
+  → Phải cố giữ học sinh giỏi liên tục để duy trì học lớp chuyên từ lớp 6
+  đến lớp 9.
+- Lớp 9: giai đoạn áp lực đỉnh điểm — từng có suy nghĩ ghét bản thân, chọn
+  cách khóa chặt cảm xúc lại để tập trung, và hình thành thói quen tự đặt
+  mục tiêu/mốc rõ ràng ("lập trình" bản thân) để đạt được điều mình muốn.
+  → **Đây có thể là gốc rễ của tư duy kỷ luật/mục tiêu rõ ràng chị mang theo
+  đến khi làm kinh doanh sau này — điểm đáng khai thác khi kể chuyện.**
+- *(Chị nói "đến đây tạm đi" — sẽ bổ sung thêm khi chị kể tiếp, đặc biệt là
+  đoạn dẫn tới lúc bắt đầu kinh doanh/làm Khuyết.)*
 
 ## 3. Kinh doanh / Thương hiệu
 
