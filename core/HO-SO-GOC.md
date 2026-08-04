@@ -25,6 +25,35 @@
 - Cột mốc quan trọng: ⬜
 - Lý do làm nội dung / sứ mệnh cá nhân: ⬜
 
+### Ký ức tuổi thơ (chị tự kể, đang cập nhật dần — 🔶 chưa xong)
+
+*Bản tóm tắt đã làm gọn từ lời kể trực tiếp của chị. Bản ghi nguyên văn đầy
+đủ nằm ở `core/raw-transcripts/2026-08-04-cau-chuyen-tuoi-tho-p1.md`.*
+
+- Nhỏ sống chung nhà bà ngoại (đường Thành Thái, Quận 10 cũ, TP.HCM) với gia
+  đình dì/chú — hai nhà, bốn anh chị em (2 con trai bên dì, anh Hai và chị ở
+  nhà mình) từng ngủ chung một phòng. Ra riêng khi chị vào lớp 1, nhà dì dọn
+  ra ở riêng trước.
+- Lớp 1 rất nhút nhát, đi học trễ vài ngày nên lạc lõng vì bạn bè đã quen
+  nhau, khóc rất nhiều vì sợ đi học — nhưng đồng thời có cá tính khá mạnh,
+  từng giậm chân phản ứng dữ dội khi bị trêu.
+- Mẫu giáo: kể thật với ba về nhà vệ sinh trường dơ, ba phản ánh với trường,
+  bị cô bảo mẫu mắng "hư" vì tội nói ra sự thật — chị không hiểu tại sao nói
+  đúng lại bị la, và từ đó không giúp cô ấy nữa. Trước đó vốn là đứa trẻ
+  thích phụ giúp người lớn làm việc vặt.
+- Lớp 5: nói thật khi cô giáo hỏi ai viết bẩn lên bàn (dù bạn kia khóc, trách
+  "mách lẻo") — có bạn thân ủng hộ nên không sợ nói sự thật.
+  → **Mô-típ lặp lại xuyên suốt tuổi thơ: thẳng thắn, nói sự thật kể cả khi
+  bị hiểu lầm hoặc bị phản ứng ngược.**
+- Bạn thân từ tiểu học (tên nghe như "Minh Huy" — 🔶 cần chị xác nhận chính
+  tả tên) ngồi cùng lớp 4, hiền, hay nhường nhịn, chơi thân từ lớp 5 đến tận
+  bây giờ. Bạn học rất giỏi, sau này vào lớp chuyên ngoại ngữ cấp 3.
+- Cấp 2: buồn vì thiếu 0.1 điểm nên không đậu vào chung trường chuyên với bạn
+  thân; đạt học sinh khá (thiếu 0.1 điểm Toán để lên giỏi). Giai đoạn này
+  đang học và thích tiếng Nhật.
+- *(Chị nói "còn tiếp" — sẽ bổ sung thêm khi chị kể tiếp phần sau, kể cả phần
+  liên quan trực tiếp đến khởi nghiệp/kinh doanh.)*
+
 ## 3. Kinh doanh / Thương hiệu
 
 - Thương hiệu chính: **Khuyết** (@khuyet.archive) — thời trang ✅
