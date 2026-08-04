@@ -45,12 +45,13 @@
   "mách lẻo") — có bạn thân ủng hộ nên không sợ nói sự thật.
   → **Mô-típ lặp lại xuyên suốt tuổi thơ: thẳng thắn, nói sự thật kể cả khi
   bị hiểu lầm hoặc bị phản ứng ngược.**
-- Bạn thân từ tiểu học (tên nghe như "Minh Huy" — 🔶 cần chị xác nhận chính
-  tả tên) ngồi cùng lớp 4, hiền, hay nhường nhịn, chơi thân từ lớp 5 đến tận
-  bây giờ. Bạn học rất giỏi, sau này vào lớp chuyên ngoại ngữ cấp 3.
-- Cấp 2: buồn vì thiếu 0.1 điểm nên không đậu vào chung trường chuyên với bạn
-  thân; đạt học sinh khá (thiếu 0.1 điểm Toán để lên giỏi). Giai đoạn này
-  đang học và thích tiếng Nhật.
+- Bạn thân từ tiểu học tên **Minh Huyền** ✅, ngồi cùng lớp 4, hiền, hay
+  nhường nhịn, chơi thân từ lớp 5 đến tận bây giờ. Bạn học rất giỏi, sau này
+  vào lớp chuyên ngoại ngữ cấp 3.
+- Cấp 2: thiếu **0,25 điểm** ✅ nên không đậu vào chung trường chuyên với
+  Minh Huyền; đạt học sinh khá (thiếu 0,1 điểm Toán để lên giỏi — mốc điểm
+  riêng, không phải mốc thi chuyên). Giai đoạn này đang học và thích tiếng
+  Nhật.
 - *(Chị nói "còn tiếp" — sẽ bổ sung thêm khi chị kể tiếp phần sau, kể cả phần
   liên quan trực tiếp đến khởi nghiệp/kinh doanh.)*
 
