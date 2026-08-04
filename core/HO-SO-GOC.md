@@ -117,7 +117,114 @@ hiệu (đáng tin, cho thấy sự tâm huyết đứng sau mỗi sản phẩm)
 - Kể cả với người thợ "đúng" (người cuối cùng được chọn), vẫn cần chỉnh sửa
   ít nhất **1–2 lần** mới ra được một sản phẩm hoàn chỉnh.
 
-- Đối tượng khách hàng của Khuyết: ⬜
+### Nguyên mẫu, sứ mệnh & câu chuyện thương hiệu ✅
+
+*Nguồn: file Google Docs "Thương hiệu" trong Drive của chị —
+[link](https://docs.google.com/document/d/1_V53GNhNXcUjHSWmLQS2AXPW5XD2YB7Wjx4uhj-gLRQ/edit).
+Đây là tài liệu gốc đầy đủ nhất, coi đây là nguồn tham chiếu chính khi cần
+chi tiết hơn bản tóm tắt dưới đây.*
+
+- **Nguyên mẫu cá tính**: ảo thuật gia (magician) + lover + khôn ngoan (sage)
+  → nữ tính, thanh lịch, mơ màng (fairy).
+- **Câu chuyện**: Khuyết là câu chuyện cổ tích cho phép phụ nữ hiện đại "mơ
+  mộng giữa đời thực" — được là "nàng công chúa hiện đại", không phải để làm
+  hài lòng ai mà để tự yêu lấy bản thân mình, giữa một xã hội đòi hỏi phụ nữ
+  phải vừa mạnh mẽ vừa giỏi giang và vô tình đánh mất sự dịu dàng, tính nữ.
+- **Tên thương hiệu**: gắn với hình ảnh **vầng trăng khuyết** — không tròn
+  trịa, không hoàn hảo, nhưng chính sự không hoàn hảo ấy tạo nên vẻ đẹp thi
+  vị. Biểu tượng ngàn đời của tính nữ: dịu dàng, huyền bí, lãng mạn, cuốn
+  hút, gợi sự chữa lành.
+- **Sứ mệnh**: đánh thức trái tim để sống chân thật, hạnh phúc hơn; khơi dậy
+  vẻ đẹp mềm mại, duyên dáng, tự do trong mỗi phụ nữ, thoát khỏi định kiến/
+  áp lực xã hội — tỏa sáng không phải để được công nhận, mà vì biết mình có
+  giá trị.
+- **Quotes thương hiệu**: "Wear your light in every phase." / "Hoàn hảo một
+  cách không hoàn hảo." / "Tính nữ như nước: không gì mềm như nước, cũng
+  không gì mạnh như nước."
+- **Giá trị cốt lõi**: Tính nữ (dịu dàng, thơ ngây, duyên dáng) · Tự do
+  (giải phóng khỏi áp lực "phải mạnh mẽ mọi lúc") · Thơ mộng (biến khoảnh
+  khắc đời thường thành trải nghiệm ngọt ngào) · Tự tin (tỏa sáng khi là
+  chính mình).
+- **Định vị thị trường**: giá **trung cấp – cao cấp** (mid-to-premium), focus
+  vào đầm làm thế mạnh chính. Phong cách: tối giản, nữ tính, cá tính, sang
+  trọng, phá cách, vintage — "Minimalist + Artistic" (không basic như
+  Uniqlo, không cầu kỳ như haute couture), ready-to-wear nhưng vẫn nổi bật,
+  thiết kế clean cut, form dễ mix.
+- **Trải nghiệm khách hàng mong muốn**: mua online dễ, tư vấn cá nhân, hậu
+  mãi tốt, đổi trả thoải mái; trải nghiệm đa giác quan khi đến trực tiếp
+  (thơm, gọn gàng, nhạc nhẹ không lời, phục vụ nước, chỗ ngồi nghỉ).
+- **Thông điệp cốt lõi**: "Khuyết không phải thiếu, mà là vẻ đẹp từ sự không
+  hoàn hảo – Unique in imperfection." / "Minimalist Premium with Poetic
+  Touch."
+- **Tông giọng thương hiệu**: lịch sự, thấu hiểu, đồng cảm, nhiệt tình, trẻ
+  trung, năng động — luôn tạo cảm giác chào đón, thoải mái. Giọng văn nhẹ
+  nhàng, mềm mại, gợi cảm (lover) + truyền cảm hứng (magician) + tâm sự chân
+  thành (sage). Nguyên tắc vận hành: thấu hiểu khách hàng làm cốt lõi, lắng
+  nghe, custom/làm rập free khi có đơn.
+- **Điểm khác biệt (USP)**: đường sóng, thiết kế bất đối xứng, hình ảnh
+  aesthetic mang tính quốc tế, kiểu corset riêng.
+
+### Tầm nhìn 3 năm (theo tài liệu gốc — ⚠️ xem lưu ý bên dưới)
+
+- **Năm 1**: đặt nền móng, doanh thu mục tiêu 100–300 triệu/tháng, khởi tạo
+  cộng đồng "Women's Circle", đạt 10.000 follower, chạm khách quốc tế đầu
+  tiên.
+- **Năm 2**: doanh thu 300–500 triệu/tháng, mở rộng Menswear + dòng Lovers
+  (couple/friends), tiếp cận thị trường Trung Quốc + Đông Nam Á, thành lập
+  công ty, ra mắt **thương hiệu thứ 2** ("người anh em đối lập" của Khuyết —
+  cá tính, mạnh mẽ hơn), vốn dự kiến 300 triệu.
+- **Năm 3**: doanh thu 500 triệu/tháng ổn định, được nhắc đến trong giới
+  fashion quốc tế, mở rộng Trung Quốc/Hàn Quốc/Singapore, tham gia Fashion
+  Week khu vực, mở flagship store tại TP.HCM (Quận 3 hoặc Phú Nhuận).
+
+⚠️ **Lưu ý xung đột cần chị xác nhận**: tài liệu gốc này (viết trước đó) có
+nhắc kế hoạch ra kênh **YouTube** và mở rộng đa kênh (FB, Instagram, Xiaohongshu/Red,
+TikTok, Website), nhưng CLAUDE.md hiện tại của dự án ghi rõ **chỉ tập trung
+Instagram, không còn dùng YouTube**. Tôi ưu tiên theo quy tắc mới nhất
+(CLAUDE.md) cho công việc hằng ngày — coi phần tầm nhìn đa kênh ở trên là bối
+cảnh lịch sử/định hướng dài hạn, không phải quy tắc vận hành hiện tại. Chị
+xác nhận cách hiểu này đúng không?
+
+### Đối tượng khách hàng của Khuyết ✅
+
+**1. Nhân khẩu học**: Nữ, 23–35 tuổi, sống ở thành phố lớn, thu nhập trung
+bình khá trở lên (>10 triệu/tháng), trình độ học vấn trung bình đến cao.
+
+**2. Tâm lý học**: yêu thời trang/thẩm mỹ tinh tế, sống có ý thức về chất
+lượng. Giá trị/niềm tin: cởi mở, tính nữ, tự do, độc lập, tinh tế, tối giản,
+lãng mạn. Tính cách: hơi mơ mộng, mạnh mẽ, sáng tạo, yêu cái đẹp. Mong muốn:
+được là chính mình, được nâng niu, tìm lại sự cân bằng, tìm cái đẹp. Nỗi sợ/
+nỗi đau: không có cộng đồng/người hiểu mình, áp lực xã hội, phải gồng mình,
+bị mất tính nữ, cảm thấy không đủ hoàn hảo.
+
+**3. Hành vi**: mua theo mùa/dịp/thường xuyên; bị hấp dẫn bởi câu chuyện
+thương hiệu hơn là giá cả, mua để khẳng định bản thân; kênh mua chính:
+Instagram (Facebook trước đó, pop-up store); độ nhạy giá thấp — ưu tiên giá
+trị/đẳng cấp/ý nghĩa thương hiệu hơn mức giá; trung thành với thương hiệu
+phù hợp với mình.
+
+**4. Nhu cầu & insight**: tìm kiếm cái đẹp, sự khác biệt, trải nghiệm, tính
+nữ, sự an ủi tinh thần, cộng đồng, được đồng cảm/khẳng định. Muốn thoát khỏi
+áp lực, sự gồng gánh, lối sống khô khan nhạt nhẽo. Bị thu hút bởi câu chuyện,
+hình ảnh thơ mộng, sự sang trọng, sự tinh tế.
+
+### 🔶 Cần chị xác nhận thêm
+
+Tài liệu Drive còn chứa **2 khái niệm thương hiệu khác** trong cùng file
+("PersonSoul" — cá tính/phiêu lưu/ngầu, hướng fantasy-RPG storytelling; và
+"Remilia Rosa" — nữ tính rất mạnh, hình tượng "công chúa quý tộc") — có vẻ là
+ứng viên ý tưởng cho **"thương hiệu thứ 2"** nhắc ở kế hoạch Năm 2 phía trên,
+hoặc là các bản nháp cũ đã không dùng. Tôi CHƯA đưa 2 khái niệm này vào hồ sơ
+vì không chắc trạng thái hiện tại. Chị xác nhận giúp: hai cái này còn đang
+cân nhắc, đã chốt bỏ, hay chính là kế hoạch thương hiệu thứ 2 chưa triển
+khai?
+
+Ngoài ra, Drive có file bảng tính **"Khuyet"** ghi chi tiêu/nhập vải/gia công
+theo tháng (khá chi tiết, vận hành) —
+[link](https://docs.google.com/spreadsheets/d/1-_ZYAQhh_4cJ7cWD2csucBQ2GhGmYg3WQxKOZ_2PBW0/edit).
+Tôi chỉ ghi nhận sự tồn tại, không copy số liệu vào hồ sơ gốc vì đây là dữ
+liệu vận hành/tài chính đổi liên tục — nếu cần dùng cho báo cáo (Agent F) thì
+nên đọc trực tiếp file này lúc đó.
 
 ## 4. Kênh mạng xã hội & số liệu
 
@@ -145,9 +252,23 @@ Chi tiết đầy đủ do **Agent A (Voice & Channel Analyst)** phân tích và
 thêm file:
 
 - Chủ đề chính: kinh doanh tính nữ ✅ *(theo CLAUDE.md gốc)*
-- Giọng nói: ⬜ *(chờ Agent A phân tích, hoặc chị mô tả nhanh 3–5 tính từ)*
-- Niềm tin cốt lõi: ⬜
-- Điều KHÔNG bao giờ làm/nói trong content: ⬜
+- Giọng nói thương hiệu Khuyết ✅ *(nguồn: Google Docs "Thương hiệu", xem mục
+  3): nhẹ nhàng, mềm mại, gợi cảm (lover) · truyền cảm hứng (magician) · tâm
+  sự chân thành (sage) · lịch sự, thấu hiểu, đồng cảm, nhiệt tình, trẻ trung,
+  năng động.*
+- Niềm tin cốt lõi ✅: "Trong mỗi người phụ nữ đều có một nàng thơ — dịu
+  dàng, nữ tính, mềm mại, đầy sức hút theo cách tự nhiên nhất." Không chấp
+  nhận sự gò bó, phán xét hay áp lực buộc phụ nữ phải "mạnh mẽ mọi lúc" và
+  che giấu tính nữ — vốn chính là nguồn sức mạnh của họ. "Hoàn hảo một cách
+  không hoàn hảo": những mảnh khuyết, phần chưa trọn vẹn mới làm nên vẻ đẹp
+  thi vị và cuốn hút.
+- Câu định vị: "Khuyết là câu chuyện cổ tích giữa đời thực — nơi người phụ nữ
+  được quyền yếu đuối, được mơ mộng, được tự do trở về với bản chất mềm mại
+  và duyên dáng của mình. Giúp phụ nữ đánh thức trái tim, giải phóng khỏi áp
+  lực 'phải mạnh mẽ', và tìm lại vẻ đẹp tính nữ — hoàn hảo trong sự không
+  hoàn hảo." ✅
+- Điều KHÔNG bao giờ làm/nói trong content: ⬜ *(chưa có nguồn — chị bổ sung
+  khi tiện)*
 
 ---
 
