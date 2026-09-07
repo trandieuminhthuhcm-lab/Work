@@ -53,4 +53,23 @@ hoặc script Python/Node), API key/token đọc từ biến môi trường, kh�
 
 ## Quy tắc làm việc
 - Không sao chép nguyên văn kịch bản/caption của người khác — chỉ lấy công thức, cấu trúc, rồi viết lại theo giọng của chị.
-- Ưu tiên chia nhỏ nhiệm vụ theo từng agent (A–F) trong các phiên riêng, tránh giao tất cả cùng lúc.
+- Ưu tiên chia nhỏ nhiệm vụ theo từng agent (A–F) khi công việc thật sự thuộc nhiều vai trò khác
+  nhau — nhưng KHÔNG mở phiên mới cho từng yêu cầu nhỏ lẻ cùng loại (VD: nhiều caption, nhiều đoạn
+  câu chuyện trong cùng 1 buổi). Mỗi phiên mới phải đọc lại HO-SO-GOC.md + khám phá lại repo từ đầu
+  → tốn thời gian/token cố định mỗi lần mở. Gộp các việc liên quan, cùng loại nội dung, cùng buổi
+  làm việc vào 1 phiên.
+
+## Hiệu quả: tránh tốn thời gian & token (áp dụng cho MỌI loại output — clone content, caption,
+câu chuyện, website, ebook, journal...)
+1. Trước khi làm lại từ đầu, kiểm tra xem việc đã có sẵn chưa (git log, file hiện có trong
+   `/scripts-captions`, `/research`, v.v.) — đừng viết lại nội dung đã hoàn thành trước đó.
+2. Không dùng subagent (Explore/general-purpose) hoặc tìm kiếm web sâu cho việc đơn giản mà thông
+   tin đã có sẵn trong `HO-SO-GOC.md` hoặc `/voice-bible`. Subagent chỉ dùng khi việc thật sự cần
+   khám phá rộng (nhiều file, nhiều nguồn) mà không thể tra cứu trực tiếp trong vài bước.
+3. Trả lời/giao output ngắn gọn, đúng trọng tâm câu hỏi — không giải thích dài dòng, không lặp lại
+   thông tin đã nằm trong file gốc hoặc trong hội thoại.
+4. Khi một phiên đã hoàn thành việc, đóng (archive) nó — tránh để nhiều phiên chạy song song làm
+   cùng một việc (gây tốn token gấp đôi/gấp ba mà chị không để ý).
+5. Việc thuộc project khác (không phải nội dung Instagram/thương hiệu Khuyết trong repo này — ví
+   dụ hỏi về tập gym, tỷ giá, đối chiếu đơn hàng) nên làm ở phiên/công cụ riêng, không kéo vào phiên
+   đang mở của dự án này — tránh phiên phải tải cả bối cảnh nội dung không liên quan.
