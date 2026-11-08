@@ -117,6 +117,40 @@ hiệu (đáng tin, cho thấy sự tâm huyết đứng sau mỗi sản phẩm)
 - Kể cả với người thợ "đúng" (người cuối cùng được chọn), vẫn cần chỉnh sửa
   ít nhất **1–2 lần** mới ra được một sản phẩm hoàn chỉnh.
 
+### Hành trình đi chợ vải tìm đối tác mới — "tiền nào của đấy" & sự trùng hợp (chị tự kể, 2026-11-08) 🔶
+
+*Bản tóm tắt từ lời kể trực tiếp. Nguyên văn:
+`core/raw-transcripts/2026-11-08-hanh-trinh-cho-vai-tim-doi-tac-moi.md`.*
+
+- **Vì sao đi tìm đối tác vải mới**: đối tác cũ bán giá rẻ, phải chăng, có
+  hàng stock — nhưng vải "nhìn thì đẹp, lên đồ thì không phù hợp". Hai bên
+  từng cãi nhau vì chị cảm thấy người đó thiếu trách nhiệm. *(Chi tiết vụ cãi
+  nhau chị sẽ kể sau — 🔶 chưa có.)*
+- **Bài toán chi phí** (số liệu chị kể): vải đẹp gần **100.000 VNĐ/mét**; một
+  bộ cần **2,5 mét → gần 300.000 VNĐ** tiền vải; cộng công may cả bộ
+  **200.000 VNĐ** → khoảng **500.000 VNĐ/bộ**, "khá là mắc". Vì đang tiết
+  kiệm tiền nên quyết định **may cho mình mặc trước**.
+- **Lựa chọn tư duy — không mua theo "tư duy thiếu thốn"**: nếu nghĩ như người
+  thiếu thốn thì sẽ sang chỗ khác mua rẻ hơn. Chị đã thật sự ra chỗ rẻ hơn,
+  thậm chí suýt chốt, nhưng để không lặp lại sai lầm cũ: xem rất kỹ, **chụp/
+  quay lại để nhận xét thật** (không phải chụp cho có), dò xét, quan sát — rồi
+  quyết định không mua.
+- **Sự trùng hợp #1 — "vũ trụ ngăn lại"**: lúc định chốt chỗ rẻ thì người bán
+  bận với khách khác, chờ lâu quá nên không mua. Sau đó quay lại mua vải giá
+  cao — đi đi lại lại **không dưới 5 lần** mới chốt. Kết luận: xứng đáng,
+  khác biệt, **"đúng là tiền nào của đấy"**.
+- **Sự trùng hợp #2 — mối thợ may áo dài mới**: hỏi lại các mối thợ áo dài cũ
+  nhưng không ưng. Trên đường về, **đi một con đường khác** thì gặp một cô
+  chuyên may áo dài, giá phải chăng, ưng ý → "cứ như vũ trụ đang ủng hộ mình".
+  Chị chưa biết vũ trụ có ủng hộ con đường sắp tới không, nhưng mọi thứ đều
+  trùng hợp.
+- → **Điểm đáng khai thác khi kể chuyện**: (1) nối tiếp mô-típ "12–13 thợ
+  may" ở trên — chị không chấp nhận "đẹp mà không đúng", sẵn sàng trả giá để
+  đúng chất lượng; (2) đối lập *tư duy thiếu thốn* vs *tư duy xứng đáng* — hợp
+  chủ đề kinh doanh tính nữ; (3) chi tiết "đi con đường khác thì gặp đúng
+  người" mang chất thơ/huyền bí (nguyên mẫu magician) của Khuyết; (4) minh
+  chứng thực tế cho tiêu chuẩn chất liệu ở mục "Tiêu chuẩn chất lượng".
+
 ### Nguyên mẫu, sứ mệnh & câu chuyện thương hiệu ✅
 
 *Nguồn: file Google Docs "Thương hiệu" trong Drive của chị —
