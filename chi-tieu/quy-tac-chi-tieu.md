@@ -9,6 +9,9 @@ Link: https://docs.google.com/spreadsheets/d/1hEWfbRhrWTYZFSEvDlFr-NmbvxGqn-OYrb
 - Tiền trả bằng tiền mặt, chuyển khoản, ví, thẻ VCB ghi ở cột H. Cà **thẻ khác** (không trừ vào tài khoản VCB, ví dụ Kingfood) ghi ở cột I.
 - Ba mục: Nhu cầu (ăn uống ngoài, cà phê, ship, Grab), Đi chợ (thực phẩm, đồ dùng bếp, siêu thị), Tạp hóa (mua sắm, dịch vụ, vải, Netflix, Claude...).
 - Tiền vào ghi ở bảng "Nguồn" (cột O–R).
+- Dòng 139 ("Tổng") là công thức gốc của chị, trừ tiền thẻ thêm một lần nên báo thấp hơn thực tế — không sửa.
+  Dòng 141 ("Tổng chi thực tế (gồm thẻ)" / "Còn lại thực tế") là con số đúng: Nhu cầu + Đi chợ + Tạp hóa + thẻ.
+  Khi tạo tab tháng mới bằng cách nhân bản tab trước, dòng 141 đi theo.
 
 ## Quy tắc nhận diện giao dịch
 - Nạp ví (MoMo/ShopeePay) **17.000đ hoặc 26.000đ** = **phí ship Grab** mặc định.
