@@ -51,6 +51,9 @@ hoặc script Python/Node), API key/token đọc từ biến môi trường, kh�
    để kết nối lại — đừng lặp lại lệnh nhiều lần vì tốn token.
 5. Đăng bài lên Instagram: luôn dừng lại để chị duyệt thủ công trước khi đăng thật.
 
+## Sổ chi tiêu cá nhân
+Khi ghi hoặc kiểm tra chi tiêu, đọc `/chi-tieu/quy-tac-chi-tieu.md` trước (link sổ, cách ghi, quy tắc nhận diện giao dịch).
+
 ## Quy tắc làm việc
 - Không sao chép nguyên văn kịch bản/caption của người khác — chỉ lấy công thức, cấu trúc, rồi viết lại theo giọng của chị.
 - Ưu tiên chia nhỏ nhiệm vụ theo từng agent (A–F) trong các phiên riêng, tránh giao tất cả cùng lúc.
