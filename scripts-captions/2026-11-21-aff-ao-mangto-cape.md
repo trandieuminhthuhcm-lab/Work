@@ -50,6 +50,60 @@ Có màu be, nâu, xanh rêu, xám nhạt. Đang giảm có thời hạn, link �
 
 ---
 
+## Bảng size (theo shop)
+
+- Size S: eo dưới 67cm, cân nặng dưới 47kg
+- Size M: eo dưới 74cm, cân nặng dưới 55kg
+- Shop ghi "100% khách hàng cho biết kích cỡ chuẩn" (dựa trên lượng đánh giá còn ít)
+
+---
+
+## 3 kịch bản dạng đoạn văn đầy đủ (lời nói, ~45–60 giây mỗi bản)
+
+### Kịch bản 1 — Góc chuyên môn: "Lật mặt trong ra xem"
+
+Làm thời trang lâu rồi nên mua áo nào mình cũng có thói quen lật mặt trong ra
+xem trước. Mặt ngoài thì ai cũng làm đẹp được, còn mặt trong mới cho biết
+người ta may có tâm hay không. Chiếc mangto choàng cape này làm từ kaki Thái
+hai lớp. Lật ra thì có lớp lót đàng hoàng, đường may thẳng và gọn, mình không
+thấy chỉ thừa lòi ra. Hàng cúc đôi phía trước là cúc vân gỗ, nhìn ấm và có
+chiều sâu hơn hẳn cúc nhựa trơn. Mấy chi tiết nhỏ này làm chiếc áo trông đắt
+hơn giá của nó. Về form thì áo có đai thắt eo, buộc nơ lên là dáng gọn ngay,
+còn lớp cape phủ qua vai che được bắp tay rất khéo. Size thì đơn giản lắm:
+eo dưới 67 phân, nặng dưới 47 ký thì lấy S; eo dưới 74 phân, nặng dưới 55 ký
+thì lấy M. Áo có màu be, nâu, xanh rêu với xám nhạt, và đang giảm giá trong
+thời gian ngắn thôi. Link mình để ở bio nha.
+
+### Kịch bản 2 — Góc câu chuyện: "12 người thợ may"
+
+Có một giai đoạn mình đi thử mười hai, mười ba người thợ may chỉ để tìm được
+một người may đúng ý. Mỗi lần thử là mất vài trăm nghìn tới cả triệu, và phần
+lớn trả về những đường may ẩu, form lệch. Từ đó mình không nhìn quần áo như
+trước nữa. Giờ cầm chiếc áo nào lên, việc đầu tiên mình làm là xem đường may.
+Lần này mình cầm chiếc mangto choàng cape kaki Thái hai lớp. Mặt trong có lót,
+đường may chỉn chu, cúc vân gỗ được đính chắc chắn. Áo có giá chỉ hơn trăm
+nghìn nên thú thật lúc đầu mình không kỳ vọng nhiều, nhưng mặt trong làm mình
+khá bất ngờ. Phần thắt đai ở eo giúp dáng người gọn lại, lớp cape thì làm cả
+bộ đồ mềm mại và nữ tính hơn. Bạn nào eo dưới 67 phân, dưới 47 ký thì mặc
+size S, còn eo dưới 74 phân, dưới 55 ký thì mặc size M. Mình để link ở bio,
+bạn ghé xem trong lúc áo còn giảm giá nha.
+
+### Kịch bản 3 — Góc cảm xúc & phối đồ: "Mùa se lạnh, mặc cho mình dịu dàng"
+
+Mỗi khi trời bắt đầu se lạnh, mình lại muốn mặc gì đó vừa ấm vừa làm mình
+thấy dịu dàng hơn một chút. Chiếc mangto choàng cape này làm được cả hai. Lớp
+cape phủ nhẹ qua vai, mỗi bước đi lại bay theo, còn đai thắt nơ ở eo ôm lấy
+dáng người vừa đủ. Mình mặc với quần jean trắng cho ngày đi cà phê, với quần
+short đen và boots khi muốn cá tính hơn, hoặc khoác ngoài một chiếc đầm dài
+khi muốn thật nữ tính. Áo làm từ kaki Thái hai lớp, có lót trong, đường may
+gọn và cúc vân gỗ nên mặc lên trông chỉn chu, không bị rẻ. Màu nào cũng dễ
+phối: be, nâu, xanh rêu, xám nhạt — riêng mình thích màu be nhất vì lên da
+rất mềm. Chọn size cũng dễ: eo dưới 67 phân, dưới 47 ký là size S; eo dưới
+74 phân, dưới 55 ký là size M. Áo đang giảm giá có thời hạn, link mình để ở
+bio nha.
+
+---
+
 ## Lưu ý trước khi quay
 
 - Phần mô tả của shop có dòng "mua qua live koc không giống mẫu ạ". Nên hỏi
