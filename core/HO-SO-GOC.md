@@ -75,6 +75,30 @@
 - *(Chị nói "đến đây tạm đi" — sẽ bổ sung thêm khi chị kể tiếp, đặc biệt là
   đoạn dẫn tới lúc bắt đầu kinh doanh/làm Khuyết.)*
 
+### Giai đoạn sụp đổ niềm tin cũ — "cố gắng sẽ thành công" (chị tự kể, 🔶 còn tiếp)
+
+*Tóm tắt từ lời chị gửi 2026-11-26. Nguyên văn:
+`core/raw-transcripts/2026-11-26-niem-tin-co-gang-sup-do.md`. Trong bài viết
+chị tự xưng là **"Thư"**.*
+
+- Niềm tin mang theo từ nhỏ: "cày" đủ thì sẽ thành công ("không làm mà đòi có
+  ăn…"). Suốt **~20 năm** cày liên tục: lớp chuyên, lớp chọn, top lớp, top
+  khối; đại học ổn (RMIT); thực tập công ty đa quốc gia. Khi yêu cũng cống hiến
+  hết mình, không tiếc gì.
+- Tính "lì": mệt lại càng cố hơn — hết lòng với người ngoài nhưng đối xử với
+  bản thân rất tệ.
+- Cái giá: **sụt 10kg**, bệnh, uống thuốc mỗi ngày "như ăn cơm"; người yêu
+  ngoại tình; bị cà khịa kiểu "tưởng học RMIT thế nào" — như thể học trường đó
+  thì không được có cảm xúc hay mắc sai lầm.
+- Bối rối và stress nặng khi niềm tin gốc sụp đổ: "mình đã được dạy cố gắng sẽ
+  có được điều mình muốn mà, sao bỏ ra nhiều vậy mà không như ý?" — "Giờ còn
+  niềm tin nào để bám víu nữa?"
+  → **Nối thẳng với mô-típ lớp 9 (khóa cảm xúc, "lập trình" bản thân): đây là
+  điểm gãy của tư duy "gồng/phải mạnh mẽ" — đúng nỗi đau mà Khuyết muốn giải
+  phóng cho phụ nữ. Nguyên liệu kể chuyện rất mạnh.**
+- *(Chưa có: chị đã tìm ra niềm tin mới nào, và nó dẫn tới tính nữ/Khuyết ra
+  sao — chờ chị kể tiếp.)*
+
 ## 3. Kinh doanh / Thương hiệu
 
 - Thương hiệu chính: **Khuyết** (@khuyet.archive) — thương hiệu thời trang
