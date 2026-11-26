@@ -18,7 +18,8 @@ Link: https://docs.google.com/spreadsheets/d/1hEWfbRhrWTYZFSEvDlFr-NmbvxGqn-OYrb
 
 ## Quy tắc nhận diện giao dịch
 - Nạp ví (MoMo/ShopeePay) **17.000đ hoặc 26.000đ** = **phí ship Grab** mặc định.
-- Chuyển khoản cho **Nguyễn Mạnh Tuấn (QR 90073, VietinBank)** = **đi cà phê**.
+- Chuyển khoản cho **Nguyễn Mạnh Tuấn (QR 90073, VietinBank)** = **đi cà phê** (mục Nhu cầu).
+- Chuyển khoản cho **Cao Thị Mỹ Linh (nội dung QR "KOVQR…")** = **sữa chua** (mục Đi chợ).
 - Đơn siêu thị: số tiền **trùng** với một giao dịch trong sao kê/ví = chuyển khoản (hoặc MoMo); **không trùng** = cà thẻ khác.
 - Cùng một món nhưng **khác ngày** là mua nhiều lần, không phải mua trùng.
 - Đơn TikTok/Shopee đã hủy hoặc trả hàng thì **không tính**. Tiền hoàn TikTok có thể vào **ví TikTok**.
